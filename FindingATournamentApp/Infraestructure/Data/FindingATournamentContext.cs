@@ -29,7 +29,7 @@ namespace FindingATournamentApp.Infraestructure.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=JONA;Database=FindingATournament;User Id=sa;Password=maxteel22");
+                optionsBuilder.UseSqlServer(@"Server=JONA;Database=FindingATournament;User Id=sa;Password=.l.");
             }
         } */
 
